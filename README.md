@@ -12,4 +12,4 @@ Using ajax to get hot trend data in json file
 ![image](https://github.com/jitacoco/Meow/blob/main/React-App-Google-Chrome-2020-10-19-15-07-23%20(1).gif)
 Load more and get back to top
 
-![image](https://github.com/jitacoco/Meow/blob/main/React-App-Google-Chrome-2020-10-19-15-07-23.gif)
+![image]()
