@@ -15,3 +15,21 @@ Load more and get back to top
 
 ![image](https://github.com/jitacoco/Meow/blob/main/React-App-Google-Chrome-2020-10-19-15-07-49_1.gif)
 The function of opening an artcle and sign in
+
+
+## Technique
+JSX
+Virtual DOM
+redux
+UI container component
+stateless component
+reduc-saga
+Immutable.js
+redux-immutable
+
+## Library
+axios
+react-transition-group
+react-router-dom
+react-redux
+styled-component
