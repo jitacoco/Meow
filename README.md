@@ -18,18 +18,20 @@ The function of opening an artcle and sign in
 
 
 ## Technique
-JSX
-Virtual DOM
-redux
-UI container component
-stateless component
-reduc-saga
-Immutable.js
-redux-immutable
+
+- JSX
+- Virtual DOM
+- redux
+- UI container component
+- stateless component
+- reduc-saga
+- Immutable.js
+- redux-immutable
+- axios
 
 ## Library
-axios
-react-transition-group
-react-router-dom
-react-redux
-styled-component
+
+- react-transition-group
+- react-router-dom
+- react-redux
+- styled-component
