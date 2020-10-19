@@ -1,0 +1,32 @@
+{
+	"success": true,
+	"data": {
+
+		"articleList": [{
+			"id": 1,
+			"title": "Best cities for Christmas in the Alps",
+			"desc": "A Christmas ski holiday is a magical way to spend some quality time with your family and loved ones. That is why we have put together some of the...",
+			"imgUrl": "https://youimg1.c-ctrip.com/target/fd/tg/g4/M08/F9/87/CggYHFbn4ayAGzoOAAFfAycJ0zY039_R_600_10000_Q90.jpg?proc=autoorient"
+		}, {
+			"id": 2,
+			"title": "Best cities for Christmas in the Alps",
+			"desc": "A Christmas ski holiday is a magical way to spend some quality time with your family and loved ones. That is why we have put together some of the...",
+			"imgUrl": "https://youimg1.c-ctrip.com/target/fd/tg/g6/M08/C9/F4/CggYs1bn4bmADsXZAAZ_iQ7zTVY793_R_600_10000_Q90.jpg?proc=autoorient"
+		}, {
+			"id": 3,
+			"title": "Best cities for Christmas in the Alps",
+			"desc": "A Christmas ski holiday is a magical way to spend some quality time with your family and loved ones. That is why we have put together some of the...",
+			"imgUrl": "https://youimg1.c-ctrip.com/target/fd/tg/g6/M08/C9/F3/CggYs1bn4auAQ9qPAAOlyh1RgBk763_R_600_10000_Q90.jpg?proc=autoorient"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://i.loli.net/2020/09/07/a1sh4c96tL8mjnE.jpg"
+		}, {
+			"id": 2,
+			"imgUrl": "https://i.loli.net/2020/09/07/LMqksApKN6HvBIU.jpg"
+        }, {
+			"id": 3,
+			"imgUrl": "https://i.loli.net/2020/09/07/oAQ1TFWyedVbglN.jpg"
+		}]
+	}
+}
